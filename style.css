@@ -1,0 +1,108 @@
+body{
+	background-image: url("bg6.jpg");
+	background-repeat: repeat;
+}
+
+div.heading{
+	text-align: center;
+	color: #33ee1d;
+	
+
+}
+span.a{
+	display: inline-block;
+}
+
+div.newblogtext{
+	text-align: center;
+	font-size: 30px;
+	color: #82b0dd;
+
+}
+
+div.dropdown{
+	position: relative;
+	display: inline-block;
+}
+
+div.dropbtn{
+  background-color: black;
+  padding: 16px;
+  border: none;
+  font-size: 15px
+}
+
+div.dropmenu{
+	display: none;
+    background-color: #b9beea;
+}
+
+div.dropmenu a{
+	color: black;
+	display: block;
+	.
+}
+
+div.dropdown:hover div.dropmenu {display: block;}
+
+div.dropdown:hover div.dropbtn{background-color: #82b0dd}
+
+div.dropmenu:hover {background-color: #82b0dd;}
+
+div.topnav{
+	background-color: #b1e0a9
+	overflow: hidden;	
+}
+
+div.topnav a{
+	float: left;
+	text-align: center;
+	padding: 14px 16px;
+	color: #e0e391;
+	font-size: 20px;
+}
+
+div.topnav a:hover{
+	background-color: #edba7d
+}
+
+div.topnav a.active{
+	background-color: #edba7d
+}
+
+div.dropdownnav{
+	position: relative;
+	display: inline-block;
+}
+
+div.dropbtnnav{
+  background-color: inherit;
+  padding: 14px 16px;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  font color: inherit;
+}
+
+div.dropmenunav{
+	display: none;
+    background-color: #b9beea;
+}
+
+div.dropmenunav a{
+	color: #e0e391;
+	display: block;
+	.
+}
+
+div.dropdownnav:hover div.dropmenunav {display: block;}
+
+/*
+div.dropdownnav:hover div.dropbtnnav{background-color: #82b0dd}
+
+div.dropmenunav:hover {background-color: #82b0dd;}
+
+     
+   <span class="a"> 
+       <img src="bg3.jpg" alt="404! Error" style="height: 300px; width: 700px; align-self: left"> 
+    </span>  */
